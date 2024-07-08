@@ -1,0 +1,29 @@
+{
+  "name": "baihoc",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datbrvt/nodejs_public.git"
+  },
+  "keywords": [
+    "baihocnodejs"
+  ],
+  "author": "Dat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datbrvt/nodejs_public/issues"
+  },
+  "homepage": "https://github.com/datbrvt/nodejs_public#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
